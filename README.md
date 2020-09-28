@@ -4,6 +4,8 @@
 
 # TL;DR Version
 
+![Tuhin's github stats](https://github-readme-stats.vercel.app/api?username=tuhinkarmakar3882&count_private=true&show_icons=true)
+
 - **[Love to make things work](#love-to-make-things-work)** - What can be more joyful than seeing one of our little creations are working and bringing smiles to faces or may be helping to solve a problem? That's how I would define my little experiments.
 
 - **[Passionate Developer](#passionate-developer)** - The consistent & passionate driving force of learning more and more, keeps me going.
@@ -18,6 +20,7 @@
 
 - **[Embracing Failures](#embracing-failures)** - Finally, I love to fail. I love to talk about my failures. Because, without them, I won't be this version of me.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinkarmakar3882&langs_count=10&layout=compact)
 
 ## Love to make things work
 Yes I do love to make things works, because you know, when you put so many efforts into something and maybe countless nights of insomnia, and then finally you get that into working. What else can be so soothing?
@@ -68,7 +71,7 @@ At some point in time, I also took sometime to learn about **Penetration Testing
 ## An Aspiring System Designer
 Alright, so each time I create something, I increase the difficulty a bit, in order to put me always out of my comfort zone.
 
-- Previously, I had no idea about how web works and with a hope to learn that, I ended up developing **[A Covid 19 Tracker with realtime scanning](https://covid19response.live)**.
+- Previously, I had no idea about how web works and with a hope to learn that, I ended up developing **[A Covid 19 Tracker with realtime scanning](https://covid19.nubes.live)**.
     - Since it wasn't fast enough and that taught me about caching and laziness in programming
     - After a few refactors, I made it performant.
 
