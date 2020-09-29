@@ -71,7 +71,7 @@ At some point in time, I also took sometime to learn about **Penetration Testing
 ## An Aspiring System Designer
 Alright, so each time I create something, I increase the difficulty a bit, in order to put me always out of my comfort zone.
 
-- Previously, I had no idea about how web works and with a hope to learn that, I ended up developing **[A Covid 19 Tracker with realtime scanning](https://covid19.nubes.live)**.
+- Previously, I had no idea about how web works and with a hope to learn that, I ended up developing **[A Covid 19 Tracker with realtime scanning](https://covid19response.live)**.
     - Since it wasn't fast enough and that taught me about caching and laziness in programming
     - After a few refactors, I made it performant.
 
