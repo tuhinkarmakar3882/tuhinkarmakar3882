@@ -2,7 +2,7 @@
 
 > Hello World, This is Tuhin Karmakar, writing this page on my first accomplishment of **1,000** meaningful commits.
 
-# TL;DR Version
+# TL;DR Version ![Profile Views](https://komarev.com/ghpvc/?username=tuhinkarmakar3882&color=green)
 
 ![Tuhin's github stats](https://github-readme-stats.vercel.app/api?username=tuhinkarmakar3882&count_private=true&show_icons=true)
 
