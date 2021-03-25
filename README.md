@@ -50,11 +50,11 @@ While finding solutions for a problem, I often encounter numerous unknown things
 
 At this point, I have worked with
 
-| Programming Languages | Web FrameWorks | Web Technologies        | JavaScript FrameWorks | Databases | CrossPlatform Development | Design Systems      |
-| ------                | ------         | ------                  | ------                | ------    | ------                    | ------              |
-| Python                | Django         | HTML                    | React                 | PostgreSQL| Flutter + Firebase        | Bootstrap           |
-| Java                  | Spring-Boot    | SCSS/CSS                | Vue                   | Firebase  | PWAs                      | Material Design     |
-| C                     |                | JavaScript / TypeScript | Nuxt.js               | H2        |                           | Figma (Prototyping) |
+| Programming Languages | Web FrameWorks | Web Technologies        | JavaScript FrameWorks | Databases | Cloud Technology | Design Systems      |
+| ------                | ------         | ------                  | ------                | ------    | ------           | ------              |
+| Python                | Django         | HTML                    | Vue.js                | PostgreSQL| Firebase         | Bootstrap           |
+| Java                  | Express.js     | SCSS/CSS                | Nuxt.js               | MongoDB   | AWS              | Material Design     |
+| JavaScript            | Flask          | JavaScript / TypeScript | React.js              |           | Digital Ocean    | Figma (Prototyping) |
 
 
 While switching between technologies, the interesting fact that I learned is that,
