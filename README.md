@@ -6,6 +6,14 @@
 
 ![Tuhin's github stats](https://github-readme-stats.vercel.app/api?username=tuhinkarmakar3882&count_private=true&show_icons=true)
 
+At this point, I have worked with
+
+| Programming Languages | Web FrameWorks | Web Technologies        | JavaScript FrameWorks | Databases | Cloud Technology | Design Systems      |
+| ------                | ------         | ------                  | ------                | ------    | ------           | ------              |
+| Python                | Django         | HTML + SCSS/CSS         | Vue.js                | PostgreSQL| Firebase         | Figma (Prototyping) |
+| Java                  | Express.js     | JavaScript / TypeScript | React.js              | MongoDB   | AWS              | Material Design     |
+
+
 - **[Love to make things work](#love-to-make-things-work)** - What can be more joyful than seeing one of our little creations are working and bringing smiles to faces or may be helping to solve a problem? That's how I would define my little experiments.
 
 - **[Passionate Developer](#passionate-developer)** - The consistent & passionate driving force of learning more and more, keeps me going.
