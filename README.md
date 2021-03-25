@@ -52,9 +52,8 @@ At this point, I have worked with
 
 | Programming Languages | Web FrameWorks | Web Technologies        | JavaScript FrameWorks | Databases | Cloud Technology | Design Systems      |
 | ------                | ------         | ------                  | ------                | ------    | ------           | ------              |
-| Python                | Django         | HTML                    | Vue.js                | PostgreSQL| Firebase         | Bootstrap           |
-| Java                  | Express.js     | SCSS/CSS                | Nuxt.js               | MongoDB   | AWS              | Material Design     |
-| JavaScript            | Flask          | JavaScript / TypeScript | React.js              |           | Digital Ocean    | Figma (Prototyping) |
+| Python                | Django         | HTML + SCSS/CSS         | Vue.js                | PostgreSQL| Firebase         | Figma (Prototyping) |
+| Java                  | Express.js     | JavaScript / TypeScript | React.js              | MongoDB   | AWS              | Material Design     |
 
 
 While switching between technologies, the interesting fact that I learned is that,
