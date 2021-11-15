@@ -2,9 +2,13 @@
 
 > Hello World, This is Tuhin Karmakar, writing this page on my first accomplishment of **1,000** meaningful commits.
 
-# TL;DR Version ![Profile Views](https://komarev.com/ghpvc/?username=tuhinkarmakar3882&color=green)
+# TL;DR Version ![Profile Views](https://komarev.com/ghpvc/?username=tuhinkarmakar3882&color=green) <a href="https://www.linkedin.com/in/tuhinkarmakar3882/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 ![Tuhin's github stats](https://github-readme-stats.vercel.app/api?username=tuhinkarmakar3882&count_private=true&show_icons=true)
+![Tuhin's github streak](https://github-readme-streak-stats.herokuapp.com/?user=tuhinkarmakar3882)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinkarmakar3882&langs_count=10&layout=compact)
+
 
 At this point, I have worked with
 
@@ -28,7 +32,7 @@ At this point, I have worked with
 
 - **[Embracing Failures](#embracing-failures)** - Finally, I love to fail. I love to talk about my failures. Because, without them, I won't be this version of me.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinkarmakar3882&langs_count=10&layout=compact)
+
 
 ## Love to make things work
 Yes I do love to make things works, because you know, when you put so many efforts into something and maybe countless nights of insomnia, and then finally you get that into working. What else can be so soothing?
@@ -41,7 +45,9 @@ I find immense joy to deploy and deliver things. I do realise that,
 
 I remember spending long hours at competitive programming and overflowing diaries with random calculations and patterns, trying to figure out a solution for it. I knew I wasn't good at it initially, But I was curious to learn more each time I attempted it. Only to gain more and more exposure to the domain of things that are yet to be known by me.
 
+ 
 <br>
+    
 
 ## Problem Solver
 > From coding challenges to real life issues
@@ -55,14 +61,6 @@ This brings me to next point in this which is,
 
 ## An Explorer
 While finding solutions for a problem, I often encounter numerous unknown things and that opens up a different world of many technologies.
-
-At this point, I have worked with
-
-| Programming Languages | Web FrameWorks | Web Technologies        | JavaScript FrameWorks | Databases | Cloud Technology | Design Systems      |
-| ------                | ------         | ------                  | ------                | ------    | ------           | ------              |
-| Python                | Django         | HTML + SCSS/CSS         | Vue.js                | PostgreSQL| Firebase         | Figma (Prototyping) |
-| Java                  | Express.js     | JavaScript / TypeScript | React.js              | MongoDB   | AWS              | Material Design     |
-
 
 While switching between technologies, the interesting fact that I learned is that,
 
