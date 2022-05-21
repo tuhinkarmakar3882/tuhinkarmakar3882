@@ -125,7 +125,7 @@ Yet, I thankful to them also because, if they did not do that to me, I wouldn't 
 
 This is a note written on Sunday, September 6, 2020, from a young version of me to my future version to remind me, to think once more before quiting on something that you always love.
 
-> Also, I want to say a very warm thank you to **[Swagata Biswas](https://www.linkedin.com/in/swagata-biswas-uiux/)** for always challenging me designs and concepts that put me out of my comfort zone to always learn something new!
+> Also, I want to say a very warm thank you to everyone who have always challenged me to explore things out of my comfort zone to always learn something new!
 
   
 
